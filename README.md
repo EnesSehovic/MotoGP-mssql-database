@@ -1,5 +1,5 @@
 # MotoGP-mssql-database
-Original SQLITE: https://observablehq.com/@piratus/motogp-results-database
+Original SQLITE database: https://observablehq.com/@piratus/motogp-results-database
 
 Data is derived from https://observablehq.com/@piratus/motogp-results-database
 
